@@ -1,0 +1,403 @@
+# Case Manager Pro
+# Copyright (C) 2024
+# This file is distributed under the same license as the Case Manager Pro package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Case Manager Pro 1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-01-01 00:00+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: case-manager-pro.php
+msgid "Case Submitter"
+msgstr ""
+
+#: case-manager-pro.php
+msgid "Case Reviewer"
+msgstr ""
+
+#: case-manager-pro.php
+msgid "Case Manager"
+msgstr ""
+
+#: includes/class-cmp-cloud-storage.php
+msgid "No cloud storage provider configured"
+msgstr ""
+
+#: includes/class-cmp-cloud-storage.php
+msgid "Cloud storage provider not properly configured"
+msgstr ""
+
+#: includes/class-cmp-cloud-storage.php
+msgid "File size (%s) exceeds maximum allowed size (%s)"
+msgstr ""
+
+#: includes/class-cmp-cloud-storage.php
+msgid "File type \"%s\" is not allowed"
+msgstr ""
+
+#: includes/class-cmp-cloud-storage.php
+msgid "Failed to save file information to database"
+msgstr ""
+
+#: includes/class-cmp-cloud-storage.php
+msgid "File not found"
+msgstr ""
+
+#: includes/class-cmp-cloud-storage.php
+msgid "You do not have permission to download this file"
+msgstr ""
+
+#: includes/class-cmp-cloud-storage.php
+msgid "None (Local Storage)"
+msgstr ""
+
+#: includes/class-cmp-cloud-storage.php
+msgid "Amazon S3"
+msgstr ""
+
+#: includes/class-cmp-cloud-storage.php
+msgid "Google Drive"
+msgstr ""
+
+#: includes/class-cmp-cloud-storage.php
+msgid "Dropbox"
+msgstr ""
+
+#: includes/cloud/class-cmp-amazon-s3.php
+msgid "Amazon S3 is not properly configured"
+msgstr ""
+
+#: includes/cloud/class-cmp-amazon-s3.php
+msgid "S3 upload failed with status code: %d"
+msgstr ""
+
+#: includes/cloud/class-cmp-amazon-s3.php
+msgid "S3 delete failed with status code: %d"
+msgstr ""
+
+#: includes/cloud/class-cmp-amazon-s3.php
+msgid "S3 connection test failed with status code: %d"
+msgstr ""
+
+#: includes/cloud/class-cmp-amazon-s3.php
+msgid "Access Key ID"
+msgstr ""
+
+#: includes/cloud/class-cmp-amazon-s3.php
+msgid "Your AWS Access Key ID"
+msgstr ""
+
+#: includes/cloud/class-cmp-amazon-s3.php
+msgid "Secret Access Key"
+msgstr ""
+
+#: includes/cloud/class-cmp-amazon-s3.php
+msgid "Your AWS Secret Access Key"
+msgstr ""
+
+#: includes/cloud/class-cmp-amazon-s3.php
+msgid "Bucket Name"
+msgstr ""
+
+#: includes/cloud/class-cmp-amazon-s3.php
+msgid "The S3 bucket name where files will be stored"
+msgstr ""
+
+#: includes/cloud/class-cmp-amazon-s3.php
+msgid "Region"
+msgstr ""
+
+#: includes/cloud/class-cmp-amazon-s3.php
+msgid "The AWS region where your bucket is located"
+msgstr ""
+
+#: admin/class-cmp-admin-settings.php
+msgid "Case Manager Pro Settings"
+msgstr ""
+
+#: admin/class-cmp-admin-settings.php
+msgid "Case Manager Pro"
+msgstr ""
+
+#: admin/class-cmp-admin-settings.php
+msgid "General Settings"
+msgstr ""
+
+#: admin/class-cmp-admin-settings.php
+msgid "Cloud Storage Settings"
+msgstr ""
+
+#: admin/class-cmp-admin-settings.php
+msgid "File Management Settings"
+msgstr ""
+
+#: admin/class-cmp-admin-settings.php
+msgid "Enable Email Notifications"
+msgstr ""
+
+#: admin/class-cmp-admin-settings.php
+msgid "Send email notifications for case updates"
+msgstr ""
+
+#: admin/class-cmp-admin-settings.php
+msgid "Dashboard Page"
+msgstr ""
+
+#: admin/class-cmp-admin-settings.php
+msgid "Select the page to use as the case management dashboard"
+msgstr ""
+
+#: admin/class-cmp-admin-settings.php
+msgid "Cloud Storage Provider"
+msgstr ""
+
+#: admin/class-cmp-admin-settings.php
+msgid "Choose your preferred cloud storage provider"
+msgstr ""
+
+#: admin/class-cmp-admin-settings.php
+msgid "File Retention Period (Days)"
+msgstr ""
+
+#: admin/class-cmp-admin-settings.php
+msgid "Number of days to keep files before automatic deletion"
+msgstr ""
+
+#: admin/class-cmp-admin-settings.php
+msgid "Maximum File Size (MB)"
+msgstr ""
+
+#: admin/class-cmp-admin-settings.php
+msgid "Maximum allowed file size in megabytes"
+msgstr ""
+
+#: admin/class-cmp-admin-settings.php
+msgid "Allowed File Types"
+msgstr ""
+
+#: admin/class-cmp-admin-settings.php
+msgid "Comma-separated list of allowed file extensions (e.g., pdf,doc,docx,jpg,png)"
+msgstr ""
+
+#: admin/class-cmp-admin-settings.php
+msgid "Configure your Case Manager Pro settings below."
+msgstr ""
+
+#: admin/class-cmp-admin-settings.php
+msgid "Test Cloud Connection"
+msgstr ""
+
+#: admin/class-cmp-admin-settings.php
+msgid "Test your cloud storage connection to ensure everything is working properly."
+msgstr ""
+
+#: admin/class-cmp-admin-settings.php
+msgid "Test Connection"
+msgstr ""
+
+#: admin/class-cmp-admin-settings.php
+msgid "Testing..."
+msgstr ""
+
+#: admin/class-cmp-admin-settings.php
+msgid "Success!"
+msgstr ""
+
+#: admin/class-cmp-admin-settings.php
+msgid "Error!"
+msgstr ""
+
+#: admin/class-cmp-admin-settings.php
+msgid "Connection test failed"
+msgstr ""
+
+#: admin/class-cmp-admin-settings.php
+msgid "Configure general plugin settings."
+msgstr ""
+
+#: admin/class-cmp-admin-settings.php
+msgid "Configure your cloud storage provider settings."
+msgstr ""
+
+#: admin/class-cmp-admin-settings.php
+msgid "Configure file upload and management settings."
+msgstr ""
+
+#: admin/class-cmp-admin-settings.php
+msgid "Select a page"
+msgstr ""
+
+#: admin/class-cmp-admin-settings.php
+msgid "You do not have permission to perform this action."
+msgstr ""
+
+#: admin/class-cmp-admin-settings.php
+msgid "Cloud storage connection successful!"
+msgstr ""
+
+#: includes/class-cmp-analytics.php
+msgid "Unauthorized"
+msgstr ""
+
+#: includes/class-cmp-analytics.php
+msgid "Invalid report type"
+msgstr ""
+
+#: includes/class-cmp-analytics.php
+msgid "Unsupported format"
+msgstr ""
+
+#: admin/class-cmp-admin-analytics.php
+msgid "Advanced Analytics"
+msgstr ""
+
+#: admin/class-cmp-admin-analytics.php
+msgid "Time Period:"
+msgstr ""
+
+#: admin/class-cmp-admin-analytics.php
+msgid "Last 7 days"
+msgstr ""
+
+#: admin/class-cmp-admin-analytics.php
+msgid "Last 30 days"
+msgstr ""
+
+#: admin/class-cmp-admin-analytics.php
+msgid "Last 90 days"
+msgstr ""
+
+#: admin/class-cmp-admin-analytics.php
+msgid "Last year"
+msgstr ""
+
+#: admin/class-cmp-admin-analytics.php
+msgid "All time"
+msgstr ""
+
+#: admin/class-cmp-admin-analytics.php
+msgid "Export Overview"
+msgstr ""
+
+#: admin/class-cmp-admin-analytics.php
+msgid "Export User Performance"
+msgstr ""
+
+#: admin/class-cmp-admin-analytics.php
+msgid "Export Resolution Times"
+msgstr ""
+
+#: admin/class-cmp-admin-analytics.php
+msgid "Loading analytics data..."
+msgstr ""
+
+#: admin/class-cmp-admin-analytics.php
+msgid "Overview Statistics"
+msgstr ""
+
+#: admin/class-cmp-admin-analytics.php
+msgid "Visual Analytics"
+msgstr ""
+
+#: admin/class-cmp-admin-analytics.php
+msgid "Case Trends"
+msgstr ""
+
+#: admin/class-cmp-admin-analytics.php
+msgid "Status Distribution"
+msgstr ""
+
+#: admin/class-cmp-admin-analytics.php
+msgid "Resolution Time Distribution"
+msgstr ""
+
+#: admin/class-cmp-admin-analytics.php
+msgid "File Type Distribution"
+msgstr ""
+
+#: admin/class-cmp-admin-analytics.php
+msgid "User Performance"
+msgstr ""
+
+#: admin/class-cmp-admin-analytics.php
+msgid "User"
+msgstr ""
+
+#: admin/class-cmp-admin-analytics.php
+msgid "Total Cases"
+msgstr ""
+
+#: admin/class-cmp-admin-analytics.php
+msgid "Completed"
+msgstr ""
+
+#: admin/class-cmp-admin-analytics.php
+msgid "Rejected"
+msgstr ""
+
+#: admin/class-cmp-admin-analytics.php
+msgid "Completion Rate"
+msgstr ""
+
+#: admin/class-cmp-admin-analytics.php
+msgid "Avg Resolution Time"
+msgstr ""
+
+#: admin/class-cmp-admin-analytics.php
+msgid "Resolution Time Analysis"
+msgstr ""
+
+#: admin/class-cmp-admin-analytics.php
+msgid "File Statistics"
+msgstr ""
+
+#: includes/class-cmp-dashboard-widget.php
+msgid "Case Manager Analytics"
+msgstr ""
+
+#: includes/class-cmp-dashboard-widget.php
+msgid "No analytics data available."
+msgstr ""
+
+#: includes/class-cmp-dashboard-widget.php
+msgid "Pending"
+msgstr ""
+
+#: includes/class-cmp-dashboard-widget.php
+msgid "Success Rate"
+msgstr ""
+
+#: includes/class-cmp-dashboard-widget.php
+msgid "Last 7 Days Trend"
+msgstr ""
+
+#: includes/class-cmp-dashboard-widget.php
+msgid "View Full Analytics"
+msgstr ""
+
+#: includes/class-cmp-dashboard-widget.php
+msgid "Manage Cases"
+msgstr ""
+
+#: assets/js/analytics.js
+msgid "Loading..."
+msgstr ""
+
+#: assets/js/analytics.js
+msgid "Error loading data"
+msgstr ""
+
+#: assets/js/analytics.js
+msgid "Report exported successfully"
+msgstr ""
+
+#: assets/js/analytics.js
+msgid "Error exporting report"
+msgstr "" 
